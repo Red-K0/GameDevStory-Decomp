@@ -11,7 +11,7 @@ The game's main background splash (actually flaunted on their website <a href="h
 A 1 pixel bitmap of <span style="color:#808080;"> ■ </span> (#808080) the exact middle of the 24-bit color spectrum. Not displayed due to size.
 
 ### Hard00.bmp, Hard01.bmp, Hard02.bmp, Hard03.bmp, Hard04.bmp, Hard05.bmp, Hard07.bmp, Hard08.bmp, Hard09.bmp 
-<img src="Hard00.bmp"><img src="Hard01.bmp"><img src="Hard02.bmp"><img src="Hard03.bmp"><img src="Hard04.bmp"><img src="Hard05.bmp"><img src="Hard07.bmp"><img src="Hard08.bmp"><img src="Hard09.bmp">
+<img src="Hard00.bmp"> <img src="Hard01.bmp"> <img src="Hard02.bmp"> <img src="Hard03.bmp"> <img src="Hard04.bmp"> <img src="Hard05.bmp"> <img src="Hard07.bmp"> <img src="Hard08.bmp"> <img src="Hard09.bmp">
 <br>Depict various images of game consoles, used throughout the game's menus. While the original files display fine in Windows (and by extension in-game), they have issues displaying in some modern software, the top half appearing transparent.
 
 ### Hard06.bmp
