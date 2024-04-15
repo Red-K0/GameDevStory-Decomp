@@ -20,8 +20,8 @@ Depicts an image of a PC, used in the 'Act >> Buy Equipment' dialog's lowest tie
 
 ## .WAV Files
 
-### GOLD.WAV
+### <a href="GOLD.WAV">GOLD.WAV</a>
 A WAV file of a coin sound effect, plays whenever a purchase is made manually in-game.
 
-### Machine.wav
+### <a href="Machine.wav">Machine.wav</a>
 A WAV file of a vending machine sound effect, used whenever an employee uses a vending machine.
