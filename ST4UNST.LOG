@@ -1,0 +1,118 @@
+ %% このﾌｧｲﾙを変更したり、削除したりしないでください。 %% 
+ %% このﾌｧｲﾙには、ｱﾌﾟﾘｹｰｼｮﾝのｾｯﾄｱｯﾌﾟに関する情報が入っています。 %% 
+ %% このﾌｧｲﾙの情報は、ｱﾌﾟﾘｹｰｼｮﾝ削除ﾕｰﾃｨﾘﾃｨで関連ｺﾝﾎﾟｰﾈﾝﾄを自動的に削除するときに使用されます。 %% 
+
+
+NOTE: ﾌﾞｰﾄｽﾄﾗｯﾌﾟ ｾｸｼｮﾝの先頭
+
+CONFIG: Title: "ゲーム発展途上国"
+
+ACTION: TempFile: "C:\Windows\setup132.exe"
+(ﾌｧｲﾙが見つからないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙをｺﾋﾟｰします。)
+
+ACTION: PrivateFile: "C:\Windows\System32\stkit432.dll"
+(ﾌｧｲﾙが見つからないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙをｺﾋﾟｰします。)
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SharedFile: "C:\Windows\System32\VB40032.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\Windows\System32\ven2232.olb"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\olepro32.dll"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\Windows\System32\msvcrt20.dll"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\msvcrt40.dll"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SystemFile: "C:\Windows\System32\ctl3d32.dll"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\VB4JP32.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: ExeSelfRegister: "C:\WINDOWS\setup132.exe"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\olepro32.dll"
+
+NOTE: ﾌﾞｰﾄｽﾄﾗｯﾌﾟ ｾｸｼｮﾝの末尾
+
+NOTE: 現在、ﾒｲﾝのｾｯﾄｱｯﾌﾟ ﾌﾟﾛｸﾞﾗﾑ 'C:\Windows\setup132.exe' を起動しています...
+
+ACTION: SharedFile: "C:\Windows\System32\winmm.dll"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\COMDLG32.OCX"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\MFC40.DLL"
+(既に最新のﾌｧｲﾙがﾃﾞｨｽｸに存在します。)
+
+ACTION: SharedFile: "C:\Windows\System32\MFC40LOC.DLL"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Develop.exe"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\TITLE.RLE"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\GOLD.WAV"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Hard00.dat"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Hard01.dat"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Hard02.dat"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Hard03.dat"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Hard04.dat"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Hard05.dat"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Hard06.dat"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Hard07.dat"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Hard08.dat"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Hard09.dat"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\HELP.HLP"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Color.bmp"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: PrivateFile: "d:\GameDevJP\Machine.wav"
+(ﾌｧｲﾙが存在しないか、古いﾊﾞｰｼﾞｮﾝのﾌｧｲﾙです。新しいﾌｧｲﾙがｺﾋﾟｰされました。)
+
+ACTION: DllSelfRegister: "C:\Windows\System32\COMDLG32.OCX"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MFC40.DLL"
+
+ACTION: ExeSelfRegister: "d:\GameDevJP\Develop.exe"
+
+ACTION: ShellLink: "", "ゲーム発展途上国"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\Develop.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Develop.exe", ""
+
